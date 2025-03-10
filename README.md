@@ -44,5 +44,7 @@ To run this project locally, follow these steps:
 1. **Add Task**: The user can type a task in the input field and click the "Add Task" button to add it to the list. Tasks are saved in the local storage to ensure persistence.
 2. **Delete Task**: Each task has a delete button (represented by a bin icon). When clicked, the task is removed from the list, and the local storage is updated accordingly.
 
+## Demo
+[Click to View](https://todo-list-eta-puce.vercel.app/)
 
 
